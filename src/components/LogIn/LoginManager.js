@@ -30,4 +30,4 @@ export const handleGoogleSignIn = () => {
       });
 }
 
-export default LoginManager;
+// export default LoginManager;
